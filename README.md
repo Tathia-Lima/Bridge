@@ -1,2 +1,2 @@
-# Bridge
-Padrão de Projeto Estrutural
+# Padrão de Projeto Estrutural - Bridge
+
